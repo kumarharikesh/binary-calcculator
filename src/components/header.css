@@ -1,0 +1,51 @@
+ /** Header css **/
+  @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+  body {
+    font-family: "Montserrat", sans-serif;
+    margin: 0px auto;
+    width: 100%;
+    background-color: var(--off-white);
+  }
+  
+  @import url("https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap");
+  .navigation .nav-brand > a {
+    font-family: "Stalinist One", cursive;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .navigation {
+    background: -moz-linear-gradient(top, #7fb73a, skyblue);
+    background: -webkit-gradient(linear, left top, left bottom, from(#7fb73a), to(rgb(157, 203, 221)));
+    box-shadow: 0 8px 16px 0 rgb(0 0 0 / 30%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    -moz-box-shadow: 0 8px 16px 0 rgb(0 0 0 / 30%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    -webkit-box-shadow: 0 8px 16px 0 rgb(0 0 0 / 30%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    color: #454545;
+    text-shadow: 0 1px 0 white;
+    padding: 1rem;
+  }
+  
+  .navigation .nav-pills {
+    text-align: right;
+    margin: 0.6rem 1rem;
+  }
+  
+  .navigation .link {
+    color: black;
+  }
+  
+  .navigation .link-active {
+    font-weight: bold;
+  }
+  .list-item-inline {
+    display: inline;
+    padding: 0rem;
+  }
+  /** links **/
+  .link {
+    box-sizing: border-box;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+  }
