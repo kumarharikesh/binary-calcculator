@@ -3,7 +3,7 @@ import "./header.css";
 
 export default function Header() {
   return (
-    <div style="padding-bottom: 1rem">
+    <div style={{paddingBottom: "1rem"}}>
       <nav className="navigation container">
         <div className="nav-brand">
           <a
