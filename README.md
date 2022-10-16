@@ -4,7 +4,7 @@ Recent update September, 2022<br/>
 A calculator which allows user to perform different binary operations. It takes input as Zero and One.
 
 <br/>preview<br/>
-![image](https://user-images.githubusercontent.com/43793294/196048212-3db7c71e-aaa8-4ed7-a841-1fe57896ae10.png)
+![image](https://user-images.githubusercontent.com/43793294/196050853-d3ea77ef-8f33-47ec-b4fd-70fd5880b17e.png)
 <br/>
 
 # How to use:
@@ -15,8 +15,8 @@ A calculator which allows user to perform different binary operations. It takes 
  
 # Tech Stack:
 
- - html
- - css 
+ - HTML
+ - CSS
  - JavaScript
  - ReactJs
 
