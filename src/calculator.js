@@ -140,7 +140,7 @@ class App extends React.Component {
   return(
     
     <div id="calciback" style={{paddingTop: this.state.paddingtop}} >
-      <h2>Binary Calculator</h2>
+      <h1>Binary Calculator</h1>
       <div id="calci">
         <div style={{padding: "30px 0 0"}}>
           <h3 style={{textAlign: "center", padding: "0px 15px 0px", fontSize: "14px", fontFamily: "cursive"}}>
