@@ -8,6 +8,9 @@
   justify-content: center;
   align-items: center;
 }
+#calciback h2 {
+  text-shadow: 0 2px 0 darkcyan;
+}
 #calci {
   background: #ffffff;
   margin-top: 20px;
