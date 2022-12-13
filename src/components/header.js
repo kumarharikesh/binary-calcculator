@@ -15,6 +15,7 @@ export default function Header() {
           </a>
         </div>
         <ul className="list-non-bullet nav-pills">
+          
           <li className="list-item-inline">
             <a
               className="link link-active"
@@ -23,6 +24,7 @@ export default function Header() {
               Home
             </a>
           </li>
+
           <li className="list-item-inline">
             <a
               className="link"
@@ -31,6 +33,7 @@ export default function Header() {
               Projects
             </a>
           </li>
+
           <li className="list-item-inline">
             <a
               className="link"
@@ -39,6 +42,16 @@ export default function Header() {
               Blogs
             </a>
           </li>
+
+          <li className="list-item-inline">
+            <a
+              className="link"
+              href="http://harrystyle.000webhostapp.com/"
+            >
+              About
+            </a>
+          </li>
+
         </ul>
       </nav>
     </div>
