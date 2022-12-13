@@ -27,10 +27,13 @@
     padding: 1rem;
   }
   
-  .navigation .nav-pills {
-    text-align: right;
-    margin: 0.6rem 1rem;
-  }
+.navigation .nav-pills {
+  margin: 0.6rem 1rem;
+  display: flex;
+  justify-content: right;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
   
   .navigation .link {
     color: black;
