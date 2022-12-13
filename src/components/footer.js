@@ -66,7 +66,7 @@ export default function Footer() {
             </a>
           </li>
         </ul>
-        <small>© HarryStyle. All rights reserved</small>
+        <small>© HarryStyle. All Rights Reserved.</small>
       </footer>
     </div>
   );
